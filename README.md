@@ -15,11 +15,6 @@ EllaClock is a simple Java-based clock application that displays the current tim
 - Java Swing (or JavaFX, replace as needed)
 - IntelliJ IDEA / VS Code (optional: mention your IDE)
 
-## 📷 Screenshot
-
-*(Optional — add a screenshot here if you want to show what it looks like!)*  
-You can upload an image in your repo and link it like this:
-
 ```markdown
 ![EllaClock Screenshot](assets/screenshot.png)
 📁 How to Run
